@@ -1,2 +1,2 @@
-# injective_kb
+# ⨕ injective_kb
 knowledge layer as a tool
